@@ -1,0 +1,32 @@
+{
+    "project_info": {
+        "project_number": "927502047180",
+        "firebase_url": "https://tobiac-az.firebaseio.com",
+        "project_id": "tobiac-az",
+        "storage_bucket": "tobiac-az.appspot.com"
+    },
+    "client": [{
+        "client_info": {
+            "mobilesdk_app_id": "1:927502047180:android:c9c5aec06b9957f5",
+            "android_client_info": {
+                "package_name": "com.tobiac"
+            }
+        },
+        "oauth_client": [{
+            "client_id": "927502047180-lq3ghh41qn82qrgfdicums65h5g0h6n3.apps.googleusercontent.com",
+            "client_type": 3
+        }],
+        "api_key": [{
+            "current_key": "AIzaSyCGt_6HA9sFw9nC2jBmHgkSOhRT4zcK5SU"
+        }],
+        "services": {
+            "appinvite_service": {
+                "other_platform_oauth_client": [{
+                    "client_id": "927502047180-lq3ghh41qn82qrgfdicums65h5g0h6n3.apps.googleusercontent.com",
+                    "client_type": 3
+                }]
+            }
+        }
+    }],
+    "configuration_version": "1"
+}
